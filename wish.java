@@ -1,3 +1,2 @@
-hii
-  hellow
-how ru
+hii 
+hello
